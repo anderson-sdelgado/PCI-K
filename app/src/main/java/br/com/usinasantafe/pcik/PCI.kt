@@ -10,15 +10,15 @@ import javax.inject.Inject
 @HiltAndroidApp
 class PCI : Application() {
 
-    @Inject
-    lateinit var hiltWorkerFactory: HiltWorkerFactory
+//    @Inject
+//    lateinit var hiltWorkerFactory: HiltWorkerFactory
 
     override fun onCreate() {
         super.onCreate()
-        WorkManager.initialize(
-            this,
-            Configuration.Builder().setWorkerFactory(hiltWorkerFactory).build()
-        )
+//        WorkManager.initialize(
+//            this,
+//            Configuration.Builder().setWorkerFactory(hiltWorkerFactory).build()
+//        )
     }
 
 }

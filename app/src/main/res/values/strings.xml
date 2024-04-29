@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">PCIK</string>
+    <string name="texto_menu_principal">PRINCIPAL - V 1.00</string>
+    <string name="texto_senha">SENHA:</string>
+    <string name="texto_padrao_ok">OK</string>
+    <string name="texto_padrao_canc">CANC.</string>
+    <string name="texto_padrao_cancelar">CANCELAR</string>
+    <string name="texto_senha_invalida">SENHA INVÁLIDA!</string>
+    <string name="texto_atualizacao_dados">ATUALIZAÇÃO DE DADOS..</string>
+    <string name="texto_nro_aparelho">NRO APARELHO:</string>
+    <string name="texto_padrao_salvar">SALVAR/ATUALIZAR OS DADOS</string>
+    <string name="texto_atualizar_bd">ATUALIZAR DADOS</string>
+    <string name="texto_inicio">INICIANDO O APLICATIVO..</string>
+    <string name="texto_config_invalida">CAMPO VAZIO! POR FAVOR, PREENCHA TODOS OS CAMPOS PARA SALVAR AS CONFIGURAÇÕES.</string>
+    <string name="texto_update_failure">FALHA DE ATUALIZAÇÃO DE DADOS! POR FAVOR ENTRE EM CONTATO COM TI. %1$s</string>
+    <string name="texto_dado_invalido">DADO INVÁLIDO! POR FAVOR, VERIFIQUE SE O CAMPO %1$s FOI DIGITADO CORRETAMENTE.</string>
+    <string name="texto_failure_app">FALHA NO APLICATIVO! POR FAVOR ENTRE EM CONTATO COM TI</string>
+    <string name="texto_update_sucess">ATUALIZAÇÃO DA BASE DE DADOS REALIZADA COM SUCESSO!</string>
 </resources>
